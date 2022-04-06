@@ -1,5 +1,12 @@
-### Hi there 👋
-### 🔭 About me
+### Hi there 👋 This is Ilya Spiridonov
+
+I am a student at the Novosibirsk State University of Economics and Management (ngueu). I have quite a lot of free time to do, for example, such things as designing my GitHub profile, if there is any criticism about my profile and my projects, say I will stand it
+
+
+
+
+
+
 <!--
 **leraks/leraks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
