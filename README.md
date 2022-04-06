@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Ilya Spiridonov
 ____________________________________________________________________________________________________________________________________________________________
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ \n
+
 I am a student at the Novosibirsk State University of Economics and Management (nsuem). I have quite a lot of free time to do, for example, such things as designing my GitHub profile, if there is any criticism about my profile and my projects, say I will stand it
 
 
