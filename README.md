@@ -23,4 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I can write code in different languages
+I can write code in different languages:
+print("Привет мир")
+print("Hello world")
+print("你好世界")
+print("توهان ان جو لفظي ترجمو ڪيو")
+print("Hola Mundo")
+print("Bonjour le monde")
+😄😄😄😄
